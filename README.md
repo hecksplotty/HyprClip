@@ -1,4 +1,4 @@
-# HyprClip Slots
+# HyprClip
 
 A minimalist, C-based multi-slot clipboard manager designed for **Hyprland**.
 
