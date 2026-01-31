@@ -2,7 +2,7 @@
 
 A minimalist, C-based multi-slot clipboard manager designed for **Hyprland**.
 
-It allows you to have 10 distinct clipboard slots (0-9). You can save text to a slot and paste it immediately using "Chord" keybindings (e.g., `Super+C` then `1`).
+It allows you to have **10 distinct clipboard slots (0-9)**. You can save text to a slot and paste it immediately using "Chord" keybindings (e.g., `Super+C` then `1`).
 
 ## Features
 
